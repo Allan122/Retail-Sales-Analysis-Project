@@ -1,6 +1,5 @@
 # Retail-Sales-Analysis-Project
 ---
-
 # Retail Sales & Customer Behavior Analysis
 
 ## Project Overview
