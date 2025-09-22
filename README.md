@@ -1,5 +1,9 @@
 # Retail Sales & Customer Behavior Analysis
 
+## Dataset
+The dataset used in this analysis is the "Online Retail" dataset.
+**Source:** [Kaggle: Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail)
+
 ## Project Overview
 This project involves a comprehensive analysis of an online retail transactional dataset. The goal is to uncover key business insights, understand customer behavior, and provide actionable recommendations to optimize sales and marketing strategies.
 
@@ -26,13 +30,11 @@ The analysis followed a standard data science project lifecycle:
 * **Top Products:** Identified the top-selling products, providing valuable insights for inventory and marketing strategies.
 
 ## Visualizations
-*(Replace the following with the images you saved from your plots)*
-
 ### Monthly Sales Trends
-
+<img width="950" height="617" alt="image" src="https://github.com/user-attachments/assets/2f325abd-7ac9-4a40-9425-4b91bfca1fae" />
 
 ### Top Countries by Sales Revenue
-
+<img width="932" height="698" alt="image" src="https://github.com/user-attachments/assets/17b8e259-a98f-41b4-bb62-93aee06ea5fd" />
 
 ## Business Recommendations
 1.  **Plan for Peak Season:** Use the seasonal trend data to optimize inventory and marketing efforts in November and December.
