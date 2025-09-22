@@ -1,7 +1,7 @@
 # Retail Sales & Customer Behavior Analysis
 
 ## Dataset
-The dataset used in this analysis is the "Online Retail" dataset.
+The dataset used in this analysis is the "Online Retail" dataset.\
 **Source:** [Kaggle: Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 
 ## Project Overview
